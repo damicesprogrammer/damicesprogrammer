@@ -1,16 +1,27 @@
-## Hi there 👋
+Machine Learning & Backend Developer · Building AI-powered applications with Python and databases
 
-<!--
-**damicesprogrammer/damicesprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[**Accounts Payable AI Copilot**](https://github.com/damicesprogrammer/accounts-payable-ai-copilot) — AI-powered Accounts Payable platform  
+`FastAPI` · `PostgreSQL` · `RAG` · `AI Agents` · `290+ tests`
+
+[**Portfolio**](https://github.com/damicesprogrammer/portfolio-damices) — Personal developer portfolio  
+`projects` · `experience` · `AI & backend`
+
+---
+
+### 🛠️ Stack
+
+Python · FastAPI · PostgreSQL · Oracle · SQL · PL/SQL · Docker · Machine Learning
+
+---
+
+### 🔗 Links
+
+[Portfolio](#) · [LinkedIn](#)
+
+---
+
+_Building intelligent systems, one commit at a time._

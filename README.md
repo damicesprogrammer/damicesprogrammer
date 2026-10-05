@@ -6,7 +6,7 @@
 
 Building AI-powered applications with **Python, machine learning, APIs and databases**.
 
-[Portfolio](#) • [LinkedIn](#)
+[Portfolio](https://damicesprogrammer.github.io/portfolio-damices/) • [LinkedIn](www.linkedin.com/in/augustodamices)
 
 </div>
 
@@ -52,4 +52,4 @@ Building projects around **Machine Learning Engineering, AI applications, RAG an
 
 ## Links
 
-[Portfolio](#) • [LinkedIn](#)
+[Portfolio](https://damicesprogrammer.github.io/portfolio-damices/) • [LinkedIn](www.linkedin.com/in/augustodamices)
